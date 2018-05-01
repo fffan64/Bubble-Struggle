@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 4eb1882da1e79f84d8cd142a4a11284b
+timeCreated: 1491922500
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - Super Pang - Balloons_alpha_0
+    21300002: Arcade - Super Pang - Balloons_alpha_1
+    21300004: Arcade - Super Pang - Balloons_alpha_2
+    21300006: Arcade - Super Pang - Balloons_alpha_3
+    21300008: Arcade - Super Pang - Balloons_alpha_4
+    21300010: Arcade - Super Pang - Balloons_alpha_5
+    21300012: Arcade - Super Pang - Balloons_alpha_6
+    21300014: Arcade - Super Pang - Balloons_alpha_7
+    21300016: Arcade - Super Pang - Balloons_alpha_8
+    21300018: Arcade - Super Pang - Balloons_alpha_9
+    21300020: Arcade - Super Pang - Balloons_alpha_10
+    21300022: Arcade - Super Pang - Balloons_alpha_11
+    21300024: Arcade - Super Pang - Balloons_alpha_12
+    21300026: Arcade - Super Pang - Balloons_alpha_13
+    21300028: Arcade - Super Pang - Balloons_alpha_14
+    21300030: Arcade - Super Pang - Balloons_alpha_15
+    21300032: Arcade - Super Pang - Balloons_alpha_16
+    21300034: Arcade - Super Pang - Balloons_alpha_17
+    21300036: Arcade - Super Pang - Balloons_alpha_18
+    21300038: Arcade - Super Pang - Balloons_alpha_19
+    21300040: Arcade - Super Pang - Balloons_alpha_20
+    21300042: Arcade - Super Pang - Balloons_alpha_21
+    21300044: Arcade - Super Pang - Balloons_alpha_22
+    21300046: Arcade - Super Pang - Balloons_alpha_23
+    21300048: Arcade - Super Pang - Balloons_alpha_24
+    21300050: Arcade - Super Pang - Balloons_alpha_25
+    21300052: Arcade - Super Pang - Balloons_alpha_26
+    21300054: Arcade - Super Pang - Balloons_alpha_27
+    21300056: Arcade - Super Pang - Balloons_alpha_28
+    21300058: Arcade - Super Pang - Balloons_alpha_29
+    21300060: Arcade - Super Pang - Balloons_alpha_30
+    21300062: Arcade - Super Pang - Balloons_alpha_31
+    21300064: Arcade - Super Pang - Balloons_alpha_32
+    21300066: Arcade - Super Pang - Balloons_alpha_33
+    21300068: Arcade - Super Pang - Balloons_alpha_34
+    21300070: Arcade - Super Pang - Balloons_alpha_35
+    21300072: Arcade - Super Pang - Balloons_alpha_36
+    21300074: Arcade - Super Pang - Balloons_alpha_37
+    21300076: Arcade - Super Pang - Balloons_alpha_38
+    21300078: Arcade - Super Pang - Balloons_alpha_39
+    21300080: Arcade - Super Pang - Balloons_alpha_40
+    21300082: Arcade - Super Pang - Balloons_alpha_41
+    21300084: Arcade - Super Pang - Balloons_alpha_42
+    21300086: Arcade - Super Pang - Balloons_alpha_43
+    21300088: Arcade - Super Pang - Balloons_alpha_44
+    21300090: Arcade - Super Pang - Balloons_alpha_45
+    21300092: Arcade - Super Pang - Balloons_alpha_46
+    21300094: Arcade - Super Pang - Balloons_alpha_47
+    21300096: Arcade - Super Pang - Balloons_alpha_48
+    21300098: Arcade - Super Pang - Balloons_alpha_49
+    21300100: Arcade - Super Pang - Balloons_alpha_50
+    21300102: Arcade - Super Pang - Balloons_alpha_51
+    21300104: Arcade - Super Pang - Balloons_alpha_52
+    21300106: Arcade - Super Pang - Balloons_alpha_53
+    21300108: Arcade - Super Pang - Balloons_alpha_54
+    21300110: Arcade - Super Pang - Balloons_alpha_55
+    21300112: Arcade - Super Pang - Balloons_alpha_56
+    21300114: Arcade - Super Pang - Balloons_alpha_57
+    21300116: Arcade - Super Pang - Balloons_alpha_58
+    21300118: Arcade - Super Pang - Balloons_alpha_59
+    21300120: Arcade - Super Pang - Balloons_alpha_60
+    21300122: Arcade - Super Pang - Balloons_alpha_61
+    21300124: Arcade - Super Pang - Balloons_alpha_62
+    21300126: Arcade - Super Pang - Balloons_alpha_63
+    21300128: Arcade - Super Pang - Balloons_alpha_64
+    21300130: Arcade - Super Pang - Balloons_alpha_65
+    21300132: Arcade - Super Pang - Balloons_alpha_66
+    21300134: Arcade - Super Pang - Balloons_alpha_67
+    21300136: Arcade - Super Pang - Balloons_alpha_68
+    21300138: Arcade - Super Pang - Balloons_alpha_69
+    21300140: Arcade - Super Pang - Balloons_alpha_70
+    21300142: Arcade - Super Pang - Balloons_alpha_71
+    21300144: Arcade - Super Pang - Balloons_alpha_72
+    21300146: Arcade - Super Pang - Balloons_alpha_73
+    21300148: Arcade - Super Pang - Balloons_alpha_74
+    21300150: Arcade - Super Pang - Balloons_alpha_75
+    21300152: Arcade - Super Pang - Balloons_alpha_76
+    21300154: Arcade - Super Pang - Balloons_alpha_77
+    21300156: Arcade - Super Pang - Balloons_alpha_78
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 146
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 149
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 142
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 149
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 140
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 138
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 138
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 141
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 138
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 139
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 131
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 101
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 123
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 122
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 122
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 86
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 92
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 86
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 108
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 114
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 88
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 85
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 114
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 85
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 119
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 108
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 119
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 109
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 110
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 119
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 105
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 107
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 70
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 50
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 73
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 59
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 59
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 77
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 71
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 71
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 25
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 43
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 60
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 61
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 62
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 32
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 53
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 38
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 41
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 16
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 19
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 25
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arcade - Super Pang - Balloons_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
